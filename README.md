@@ -1,4 +1,4 @@
-# linalglib: A Math Library (In orogress)
+# linalglib: A Math Library (In progress)
 
 ## Overview
 
